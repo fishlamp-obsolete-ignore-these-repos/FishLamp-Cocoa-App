@@ -1,0 +1,3 @@
+[submodule "Piecemeal-XcodeConfigs"]
+	path = Piecemeal-XcodeConfigs
+	url = https://github.com/piecemeal/Piecemeal-XcodeConfigs.git
